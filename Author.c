@@ -24,5 +24,7 @@ int main() {
     printf("   ================= THE AUTHOR ===================\n");
     printf("\n");
 
+
+    system("pause");
     return 0;
 }
