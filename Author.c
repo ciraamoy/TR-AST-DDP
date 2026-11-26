@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 int main() {
-    system("color 6F"); /* latar kuning gelap, tulisan putih (khusus Windows) */
 
     printf("\n");
     printf("   ================= THE AUTHOR ===================\n");
